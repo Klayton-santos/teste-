@@ -1,12 +1,38 @@
 <html>
-  <head>
-     <body>
-    <title> CLASS </title>
-    <P>CLASS FUNDADA EM 2015</P> 
-       
-    </body>
-  </head>
-  
-</html>
 
-  
+<head>
+    <title>site do klayton </title>
+    <style>
+        body {
+            background-color: blue;
+            color: aqua;
+
+        }
+
+        h1 {
+            text-align: center;
+        }
+        p{text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>meu primeiro site online </h1>
+    <p>neste site eu utilizei as tecnologias: </p>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+    </ul>
+    <P>Também utilizei as seguintes ferramentas: </P>
+    <ol>
+        <li>Github</li>
+        <li>Vercel</li>
+        <li>VScode</li>
+    </ol>
+    <img src="https://images.pexels.com/photos/30241292/pexels-photo-30241292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+
+</body>
+
+</html>
